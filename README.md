@@ -1,6 +1,8 @@
 Markdown Example
 ======================
-This Readme is from http://tokkono.cute.coocan.jp/blog/slow/index.php/programming/markdown-skills-for-github-beginners/ .
+This Readme is from
+http://tokkono.cute.coocan.jp/blog/slow/index.php/programming/markdown-skills-for-github-beginners/
+
 Thank you.
 
 ここにプロジェクトの概要を書きます。
