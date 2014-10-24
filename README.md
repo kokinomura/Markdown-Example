@@ -4,7 +4,7 @@ This Readme is from
 
 http://tokkono.cute.coocan.jp/blog/slow/index.php/programming/markdown-skills-for-github-beginners/
 
-Thank you.
+Thanks so much.
 
 ここにプロジェクトの概要を書きます。
 行末にスペースを2つ入れると
